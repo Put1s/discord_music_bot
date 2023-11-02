@@ -20,8 +20,3 @@ To create a bot follow my tutorial on https://www.youtube.com/watch?v=PJDuI9n7rW
 
 # Deploying your bot
 Lastly you'll need to deploy your bot. You can follow my other tutorial on deploying with docker https://www.youtube.com/watch?v=z58g7_dHeMA but the gist is to have a server setup with all the dependencies and then run `python main.py`.
-
-# Token
-Remember that you need to have your token setup in your environment variables as well and it should be under TOKEN. On windows you can do this by running 
-`SET TOKEN=<you_token_here>`
-
